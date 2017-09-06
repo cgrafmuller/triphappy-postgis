@@ -1,5 +1,5 @@
 # triphappy-postgis
-PostGIS helpers used within triphappy.com
+PostGIS helpers used on https://triphappy.com
 
 * Rails app must already have PostGIS installed
 * Designed to be used when you have multiple PostGIS models, such as neighborhood shape files and points of interest within them
